@@ -1,2 +1,3 @@
 Wedelia Egy Azzahra 2405176036
 untuk fungsi pull di vscode
+untuk fungsi fetch
